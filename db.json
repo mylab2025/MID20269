@@ -2,7 +2,7 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "MOSFET",
+        "Name": "Dual Channel MOSFET (N-type)",
         "PN": "ZXMS6004DT8",
         "MF": "DIODES"
       },
