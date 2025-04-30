@@ -7,12 +7,18 @@
         "MF": "DIODES"
       },
       "MID": "MID20269",
-      "MD": "ZXMS6004DT8 is  60V N-CHANNEL SELF PROTECTED ENHANCEMENT MODE INTELLIFET MOSFET with On-state resistance = 500mR & Load Current = 1.2A @Vin=5V || Design Ref: U150",
-      "MT": "Electronic Comp.",
+      "MD": "ZXMS6004DT8 is  60V N-CHANNEL SELF PROTECTED ENHANCEMENT MODE INTELLIFET MOSFET with On-state resistance = 500mR \u0026 Load Current = 1.2A @Vin=5V || Design Ref: U150",
+      "MT": "Electronic Material",
       "MQNT": 6,
-      "MQATG": "#CLASS1",
+      "MQATG": "#CLASS_1",
       "ML": "102",
+      "MCost": 0,
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20269%2Fmain%2FZXMS6004DT8-77748.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
       "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20269%2Fmain%2F51437977D02_en_E.1_51437977d02_en_e.1_51437977d02.pdf",
       "MaterialImages": [
         "https://raw.githubusercontent.com/mylab2025/MID20269/main/WhatsApp Image 2025-04-05 at 2.42.25 PM.jpeg"
